@@ -1,0 +1,38 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color: white;
+}
+
+span {
+    color: red;
+}
+
+.container {
+    width: 400px;
+    height: 300px;
+    margin: 50px auto;
+    position: relative;
+    color: black;
+    text-align: center;
+}
+
+input {
+    border-radius: 6px;
+    border-style: solid;
+    padding: 5px;
+}
+
+button {
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    background: black;
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
